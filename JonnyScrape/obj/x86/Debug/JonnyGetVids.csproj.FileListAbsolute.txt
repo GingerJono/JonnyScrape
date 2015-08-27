@@ -1,0 +1,9 @@
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\bin\Debug\JonnyGetVids.exe
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\bin\Debug\JonnyGetVids.pdb
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\obj\x86\Debug\JonnyGetVids.Form1.resources
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\obj\x86\Debug\JonnyGetVids.Properties.Resources.resources
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\obj\x86\Debug\JonnyGetVids.csproj.GenerateResource.Cache
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\obj\x86\Debug\JonnyGetVids.exe
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyGetVids\JonnyGetVids\obj\x86\Debug\JonnyGetVids.pdb

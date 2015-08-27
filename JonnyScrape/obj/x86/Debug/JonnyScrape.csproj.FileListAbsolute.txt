@@ -1,0 +1,10 @@
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\bin\Debug\JonnyScrape.exe.config
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\bin\Debug\JonnyScrape.exe
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\bin\Debug\JonnyScrape.pdb
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\obj\x86\Debug\JonnyGetVids.Form1.resources
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\obj\x86\Debug\JonnyScrape.Properties.Resources.resources
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\obj\x86\Debug\JonnyScrape.csproj.GenerateResource.Cache
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\obj\x86\Debug\JonnyScrape.exe
+C:\Users\Jono\Dropbox\Visual Studio 2010\Projects\JonnyScrape\JonnyScrape\obj\x86\Debug\JonnyScrape.pdb
